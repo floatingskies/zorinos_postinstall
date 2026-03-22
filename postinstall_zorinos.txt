@@ -1,0 +1,27 @@
+flatpak install -y --noninteractive flathub \
+  org.localsend.localsend_app \
+  md.obsidian.Obsidian \
+  io.appflowy.AppFlowy \
+  io.github.alainm23.planify \
+  org.gnome.Solanum \
+  org.gnome.World.PikaBackup \
+  io.bassi.Amberol \
+  com.spotify.Client \
+  org.kde.kdenlive \
+  org.blender.Blender \
+  org.gimp.GIMP \
+  org.inkscape.Inkscape \
+  com.github.finefindus.eyedropper \
+  com.github.huluti.Curtail \
+  fr.handbrake.ghb \
+  org.videolan.VLC \
+  com.google.AndroidStudio \
+  com.usebruno.Bruno \
+  io.beekeeperstudio.Studio \
+  io.podman_desktop.PodmanDesktop \
+  it.mijorus.gearlever \
+  app.devsuite.Ptyxis \
+  com.github.flxzt.rnote \
+  org.gaphor.Gaphor \
+  ai.jan.Jan \
+  io.missioncenter.MissionCenter
